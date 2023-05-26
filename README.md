@@ -68,6 +68,12 @@ To run the project, execute the following command with your terminal opened to t
 - LinkedIn: [LinkedIn](https://linkedin.com/in/damilareadepoju)
 - GitUp Page: [My Page](https://adamilare.github.io/)
 
+👤 **Daniel Matama**
+
+- GitHub: [@githubhandle](https://github.com/danielmatama)
+- Twitter: [@twitterhandle](https://twitter.com/danmatama)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/danielmatama-mwebesa)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>

@@ -21,3 +21,4 @@ solver = Solver.new
 p solver.factorial(5)
 p solver.reverse('hello')
 p solver.fizzbuzz(75)
+
